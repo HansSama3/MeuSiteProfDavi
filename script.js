@@ -2,9 +2,9 @@
 let filmes = [
 
     {
-    titulo: "Interestelar",
-    imagem: "Imagens/Interstellar_Filme.png",
-    descricao: "Um grupo de astronautas viaja através de um buraco de minhoca em busca de um novo lar para a humanidade."
+    titulo: "Five Nights at Freddy's: O pesadelo sem fim",
+    imagem: "fnafilme.jpg",
+    descricao: "O filme Five Nights at Freddy's (2023) segue Mike Schmidt, um segurança noturno problemático que aceita emprego em uma pizzaria abandonada, a Freddy Fazbear's Pizza. Ele descobre que os animatrônicos do local são possuídos pelos espíritos de crianças desaparecidas nos anos 80, orquestrado por William Afton, um serial killer que se disfarça."
     }
     
     ];
@@ -13,10 +13,9 @@ let filmes = [
     let series = [
     
     {
-    titulo: "Stranger Things",
-    imagem: "Imagens/StrangerThings_Filme.jpg",
-    descricao: "Um grupo de crianças enfrenta forças sobrenaturais e experimentos secretos em uma pequena cidade."
-    }
+    titulo: "Dexter",
+    imagem: "dextermorgan.jpg",
+    descricao: "Dexter é uma aclamada série que acompanha Dexter Morgan (Michael C. Hall), um analista forense especializado em padrões de sangue para a polícia de Miami que, secretamente, é um assassino em série. Assombrado por traumas de infância, ele segue um código de Harry ensinado por seu pai adotivo para canalizar seus impulsos, matando apenas outros criminosos que escaparam do sistema judicial."}
 
     
     ];
